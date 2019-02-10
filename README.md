@@ -18,7 +18,7 @@ $ git clone https://github.com/kphilemon/Maze_Runner.git
 ```
 **2. Open command prompt and go to the src directory**
 ```
-cd your_path_to_project\MazeRunner\src
+cd your_path_to_project\Maze_Runner\src
 ```
 **3. Compile the source files**
 ```
