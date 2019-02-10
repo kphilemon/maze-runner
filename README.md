@@ -1,5 +1,5 @@
 # Maze_Runner
-[![Made with JAVA](https://img.shields.io/badge/Made_with-JAVA-1abc9c.svg)](https://shields.io/)
+[![Made with JAVA](https://img.shields.io/badge/Made_with-JAVA-1abc9c.svg)](https://en.wikipedia.org/wiki/Java_(programming_language))
 
 Maze_Runner is a simple yet challenging console-based game written in pure java. 
 It is _fully documented_ and designed as clean as possible for its readability and further development. 
