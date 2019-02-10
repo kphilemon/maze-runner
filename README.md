@@ -54,7 +54,7 @@ Every valid movement will cost Johnny a drop of blood. So make your move wisely!
 **Note:** If the arrow keys do not work, click on the small window at the top left corner and try again.
 
 ## Author
-Connect with me on [LinkedIn](https://www.linkedin.com/in/philemon-khor/) or folow me on [Github](https://github.com/kphilemon).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/philemon-khor/) or follow me on [Github](https://github.com/kphilemon).
 
 
 ## License
